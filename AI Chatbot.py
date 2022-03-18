@@ -1,0 +1,26 @@
+print("AI:Hello I'M AI")
+print()
+print("AI:What's your good name:")
+name=input("You: ")
+print()
+print("AI:Nice to meet you",name)
+print()
+print("AI:What's your age:")
+age=int(input("You: "))
+print()
+print("AI:Wow you are",age,"years old")
+print()
+print("AI:Where are you from:")
+place=input("You: ")
+print()
+print("AI:Great,I love\t"+""+place)
+print()
+print("AI:Felt nice talking with you, Goodbye")
+print()
+print("You:Goodbye")
+print()
+
+
+print("***Program Ends***")
+
+
